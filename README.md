@@ -1,2 +1,2 @@
-# texthooker-mgrng.github.io
+# mgrng.github.io
 local texthooker html file
